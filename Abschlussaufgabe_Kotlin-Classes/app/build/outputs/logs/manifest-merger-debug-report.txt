@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\kastr\.gradle\caches\transforms-4\b702381bfbd632e32b1c250c588f4d35\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\kastr\.gradle\caches\transforms-4\b16896a4b53de951ac5ed0d5743869f4\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\kastr\.gradle\caches\transforms-4\7e487f8253671ecb4de2e0b49fb112b4\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\kastr\.gradle\caches\transforms-4\ff2703d59e06604da4aaef7796de5704\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\6887b4871c15685db0b0d8e9a5ccafaa\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kastr\.gradle\caches\transforms-4\1af8951b7fbc94a9ffc98280c8b9d33d\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\kastr\.gradle\caches\transforms-4\bae67de153d038e4c00cba1e44daff40\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\kastr\.gradle\caches\transforms-4\060f59061fc359b14b88f1f98d494010\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\d188a9ccf66ff18e75fa0fd096741747\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\33256ff4ace4b8a552ddd356382f5483\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\kastr\.gradle\caches\transforms-4\74f334cc844c5e6a1a328ae6730c3243\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\16e98d819090d256d994610497ae34db\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\1c120e13f47fb7c05a928f36b9223b46\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kastr\.gradle\caches\transforms-4\58c6ac349f65acc24e1ba0ba487210a1\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\dd44e55e11f8b81c554401cb97424431\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\5c8f422679ad7ff09f10c59720036cd4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\175d9aa8b76f53f4bd61c4527b6bcca1\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\7468ab70bd90c64fe112b46add81190a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\b84a13afb3c5443264dda77d2fc72d30\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\bbbf97eb988715a96cb012d0becc3f20\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\935dd6beadcd69a1acf4e46ac303184a\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\kastr\.gradle\caches\transforms-4\b1951ea9091ac026273817e2d6c8c908\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\956127ca58c2571ae92c654decff215d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\kastr\.gradle\caches\transforms-4\3ff4c78c568501b93307ad40101f3789\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\fd0a968291dad8ec1d8ff3d7255686f0\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\kastr\.gradle\caches\transforms-4\0ac3a51c6bea654abbb12de6f5da4d5e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\3dc5b4b696e14da3282afbe5428faf56\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kastr\.gradle\caches\transforms-4\c91a73fc79014651c69e4dcfd7204f32\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kastr\.gradle\caches\transforms-4\d077c91be6a42e023eaefadd90e99c55\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\6d6b6fd6d192636e56c560f7ff45b084\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\222cca96b220ca8c67391676c5474be3\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kastr\.gradle\caches\transforms-4\a274724667e601e2a27f7448ec4259d7\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\kastr\.gradle\caches\transforms-4\bc025e23f165b8c3df449a228c13a375\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\kastr\.gradle\caches\transforms-4\8bff3b6779f5b0d62e4bc6607ec64ffe\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kastr\.gradle\caches\transforms-4\6e54d2f4786712a68edcbb926ac03745\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\59620a4c950d1c891f6df84efa7e716f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\9462d9af2aba7d47eea075746210a2fe\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\963f8421d1d04e5a4676dd0c0416654a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\84b7343a20630183fa038c13a44fcd86\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\50e678d95ae80dde5895f1b27b173120\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:5:5-23:19
+INJECTED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\kastr\.gradle\caches\transforms-4\b16896a4b53de951ac5ed0d5743869f4\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\kastr\.gradle\caches\transforms-4\b16896a4b53de951ac5ed0d5743869f4\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\kastr\.gradle\caches\transforms-4\7e487f8253671ecb4de2e0b49fb112b4\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\kastr\.gradle\caches\transforms-4\7e487f8253671ecb4de2e0b49fb112b4\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\33256ff4ace4b8a552ddd356382f5483\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\33256ff4ace4b8a552ddd356382f5483\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\kastr\.gradle\caches\transforms-4\b1951ea9091ac026273817e2d6c8c908\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\kastr\.gradle\caches\transforms-4\b1951ea9091ac026273817e2d6c8c908\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kastr\.gradle\caches\transforms-4\c91a73fc79014651c69e4dcfd7204f32\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kastr\.gradle\caches\transforms-4\c91a73fc79014651c69e4dcfd7204f32\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kastr\.gradle\caches\transforms-4\d077c91be6a42e023eaefadd90e99c55\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kastr\.gradle\caches\transforms-4\d077c91be6a42e023eaefadd90e99c55\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\6d6b6fd6d192636e56c560f7ff45b084\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\6d6b6fd6d192636e56c560f7ff45b084\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\kastr\.gradle\caches\transforms-4\b1951ea9091ac026273817e2d6c8c908\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:8:9-54
+	tools:targetApi
+		ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:13:9-29
+	android:icon
+		ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:12:9-51
+	android:dataExtractionRules
+		ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.kotlin_classes.MainActivity
+ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:exported
+		ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\kastr\.gradle\caches\transforms-4\b702381bfbd632e32b1c250c588f4d35\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\kastr\.gradle\caches\transforms-4\b702381bfbd632e32b1c250c588f4d35\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\kastr\.gradle\caches\transforms-4\b16896a4b53de951ac5ed0d5743869f4\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\kastr\.gradle\caches\transforms-4\b16896a4b53de951ac5ed0d5743869f4\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\kastr\.gradle\caches\transforms-4\7e487f8253671ecb4de2e0b49fb112b4\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\kastr\.gradle\caches\transforms-4\7e487f8253671ecb4de2e0b49fb112b4\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\kastr\.gradle\caches\transforms-4\ff2703d59e06604da4aaef7796de5704\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\kastr\.gradle\caches\transforms-4\ff2703d59e06604da4aaef7796de5704\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\6887b4871c15685db0b0d8e9a5ccafaa\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\6887b4871c15685db0b0d8e9a5ccafaa\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kastr\.gradle\caches\transforms-4\1af8951b7fbc94a9ffc98280c8b9d33d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kastr\.gradle\caches\transforms-4\1af8951b7fbc94a9ffc98280c8b9d33d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\kastr\.gradle\caches\transforms-4\bae67de153d038e4c00cba1e44daff40\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\kastr\.gradle\caches\transforms-4\bae67de153d038e4c00cba1e44daff40\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\kastr\.gradle\caches\transforms-4\060f59061fc359b14b88f1f98d494010\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\kastr\.gradle\caches\transforms-4\060f59061fc359b14b88f1f98d494010\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\d188a9ccf66ff18e75fa0fd096741747\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\d188a9ccf66ff18e75fa0fd096741747\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\33256ff4ace4b8a552ddd356382f5483\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\33256ff4ace4b8a552ddd356382f5483\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\kastr\.gradle\caches\transforms-4\74f334cc844c5e6a1a328ae6730c3243\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\kastr\.gradle\caches\transforms-4\74f334cc844c5e6a1a328ae6730c3243\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\16e98d819090d256d994610497ae34db\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\16e98d819090d256d994610497ae34db\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\1c120e13f47fb7c05a928f36b9223b46\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\1c120e13f47fb7c05a928f36b9223b46\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kastr\.gradle\caches\transforms-4\58c6ac349f65acc24e1ba0ba487210a1\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kastr\.gradle\caches\transforms-4\58c6ac349f65acc24e1ba0ba487210a1\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\dd44e55e11f8b81c554401cb97424431\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\dd44e55e11f8b81c554401cb97424431\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\5c8f422679ad7ff09f10c59720036cd4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\5c8f422679ad7ff09f10c59720036cd4\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\175d9aa8b76f53f4bd61c4527b6bcca1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\175d9aa8b76f53f4bd61c4527b6bcca1\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\7468ab70bd90c64fe112b46add81190a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\7468ab70bd90c64fe112b46add81190a\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\b84a13afb3c5443264dda77d2fc72d30\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\b84a13afb3c5443264dda77d2fc72d30\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\bbbf97eb988715a96cb012d0becc3f20\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\bbbf97eb988715a96cb012d0becc3f20\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\935dd6beadcd69a1acf4e46ac303184a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\935dd6beadcd69a1acf4e46ac303184a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\kastr\.gradle\caches\transforms-4\b1951ea9091ac026273817e2d6c8c908\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\kastr\.gradle\caches\transforms-4\b1951ea9091ac026273817e2d6c8c908\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\956127ca58c2571ae92c654decff215d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\956127ca58c2571ae92c654decff215d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\kastr\.gradle\caches\transforms-4\3ff4c78c568501b93307ad40101f3789\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\kastr\.gradle\caches\transforms-4\3ff4c78c568501b93307ad40101f3789\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\fd0a968291dad8ec1d8ff3d7255686f0\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\fd0a968291dad8ec1d8ff3d7255686f0\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\kastr\.gradle\caches\transforms-4\0ac3a51c6bea654abbb12de6f5da4d5e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\kastr\.gradle\caches\transforms-4\0ac3a51c6bea654abbb12de6f5da4d5e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\3dc5b4b696e14da3282afbe5428faf56\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\3dc5b4b696e14da3282afbe5428faf56\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kastr\.gradle\caches\transforms-4\c91a73fc79014651c69e4dcfd7204f32\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kastr\.gradle\caches\transforms-4\c91a73fc79014651c69e4dcfd7204f32\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kastr\.gradle\caches\transforms-4\d077c91be6a42e023eaefadd90e99c55\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kastr\.gradle\caches\transforms-4\d077c91be6a42e023eaefadd90e99c55\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\6d6b6fd6d192636e56c560f7ff45b084\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\6d6b6fd6d192636e56c560f7ff45b084\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\222cca96b220ca8c67391676c5474be3\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\222cca96b220ca8c67391676c5474be3\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kastr\.gradle\caches\transforms-4\a274724667e601e2a27f7448ec4259d7\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kastr\.gradle\caches\transforms-4\a274724667e601e2a27f7448ec4259d7\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\kastr\.gradle\caches\transforms-4\bc025e23f165b8c3df449a228c13a375\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\kastr\.gradle\caches\transforms-4\bc025e23f165b8c3df449a228c13a375\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\kastr\.gradle\caches\transforms-4\8bff3b6779f5b0d62e4bc6607ec64ffe\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\kastr\.gradle\caches\transforms-4\8bff3b6779f5b0d62e4bc6607ec64ffe\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kastr\.gradle\caches\transforms-4\6e54d2f4786712a68edcbb926ac03745\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kastr\.gradle\caches\transforms-4\6e54d2f4786712a68edcbb926ac03745\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\59620a4c950d1c891f6df84efa7e716f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\59620a4c950d1c891f6df84efa7e716f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\9462d9af2aba7d47eea075746210a2fe\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\9462d9af2aba7d47eea075746210a2fe\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\963f8421d1d04e5a4676dd0c0416654a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\963f8421d1d04e5a4676dd0c0416654a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\84b7343a20630183fa038c13a44fcd86\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\84b7343a20630183fa038c13a44fcd86\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\50e678d95ae80dde5895f1b27b173120\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kastr\.gradle\caches\transforms-4\50e678d95ae80dde5895f1b27b173120\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kastr\Desktop\Laptop\Studium\3Semester\AI9.1-Labor-fuer-App-Entwicklung\Abschlussaufgabe_Kotlin-Classes_Fixed\Abschlussaufgabe_Kotlin-Classes\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\33256ff4ace4b8a552ddd356382f5483\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kastr\.gradle\caches\transforms-4\d077c91be6a42e023eaefadd90e99c55\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kastr\.gradle\caches\transforms-4\d077c91be6a42e023eaefadd90e99c55\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\6d6b6fd6d192636e56c560f7ff45b084\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\6d6b6fd6d192636e56c560f7ff45b084\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\33256ff4ace4b8a552ddd356382f5483\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\33256ff4ace4b8a552ddd356382f5483\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\33256ff4ace4b8a552ddd356382f5483\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\33256ff4ace4b8a552ddd356382f5483\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\33256ff4ace4b8a552ddd356382f5483\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\33256ff4ace4b8a552ddd356382f5483\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kastr\.gradle\caches\transforms-4\33256ff4ace4b8a552ddd356382f5483\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kastr\.gradle\caches\transforms-4\d077c91be6a42e023eaefadd90e99c55\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kastr\.gradle\caches\transforms-4\d077c91be6a42e023eaefadd90e99c55\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\kastr\.gradle\caches\transforms-4\d077c91be6a42e023eaefadd90e99c55\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
